@@ -1,1 +1,1 @@
-For this challenge, we decided to do a climate analysis and data exploration about the area of Honolulu, Hawaii using Python and SQLAlchemy. we used SQLAlchemy, ORM queries, Pandas, and Matplotlib to create visualizations and analyze our data.
+For this challenge, we decided to do a climate analysis and data exploration about the area of Honolulu, Hawaii using Python and SQLAlchemy. We used SQLAlchemy, ORM queries, Pandas, and Matplotlib to create visualizations and analyze our data.
